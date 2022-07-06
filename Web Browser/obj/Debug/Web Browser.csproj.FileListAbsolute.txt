@@ -1,0 +1,18 @@
+C:\Users\pana_\source\repos\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+C:\Users\pana_\source\repos\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+C:\Users\pana_\source\repos\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+C:\Users\pana_\source\repos\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+C:\Users\pana_\source\repos\Web Browser\Web Browser\obj\Debug\Web_Browser.Properties.Resources.resources
+C:\Users\pana_\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.GenerateResource.cache
+C:\Users\pana_\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.CoreCompileInputs.cache
+C:\Users\pana_\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+C:\Users\pana_\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+C:\Users\pana_\source\repos\Web Browser\Web Browser\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\pana_\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.CopyComplete
+C:\Users\pana_\source\repos\Web Browser\Web Browser\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\pana_\source\repos\Web Browser\Web Browser\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\pana_\source\repos\Web Browser\Web Browser\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\pana_\source\repos\Web Browser\Web Browser\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\pana_\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.ResolveComReference.cache
+C:\Users\pana_\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.AssemblyReference.cache
+C:\Users\pana_\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.SuggestedBindingRedirects.cache
